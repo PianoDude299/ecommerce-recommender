@@ -583,9 +583,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For questions or issues, please:
-1. Check existing [Issues](https://github.com/yourusername/ecommerce-recommender/issues)
+1. Check existing [Issues](https://github.com/PianoDude299/ecommerce-recommender/issues)
 2. Open a new issue with detailed description
-3. Contact via email: your.email@example.com
+3. Contact via email: suryanarayan2099@gmail.com
 
 ---
 
