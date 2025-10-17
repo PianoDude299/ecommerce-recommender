@@ -77,7 +77,7 @@ The system analyzes user behavior patterns, product attributes, and similar user
 
 ## 🎥 Demo
 
-> **[Link to Demo Video]** _(Add your video link here after recording)_
+> **[Link to Demo Video]** _(Will be updated soon)_
 
 ### Quick Demo Flow
 1. Select a user from the dropdown
